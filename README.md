@@ -16,7 +16,8 @@ Backend skills:
 Frontend skills:
 - Reactjs, Nextjs, Tailwind CSS
 
-🔭 I’m currently working on ICO, DEX, DAO 
+🔭 I’m currently working on ICO, DEX, DAO
+
 📫 How to reach me: mashabaindustriesllc@gmail.com 
 
 
