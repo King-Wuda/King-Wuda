@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tumelo Mashaba
 #### I am a full-stack Blockchain developer
-![I am a full-stack Blockchain developer](https://github.com/King-Wuda/King-Wuda/blob/main/Twitter%20Web3%20header.jpg)
+![I am a Backend Blockchain developer](https://github.com/King-Wuda/King-Wuda/blob/main/Twitter%20Web3%20header.jpg)
 
 - Am currently building my own projects all-day everyday.
 - I am  self-taught developer
@@ -11,10 +11,7 @@ Here are some links to my live projects:
 - Whitelist-dapp: ([link](https://whitelist-dapp-peach-one.vercel.app/))
 
 Backend skills:
-- Ethers.js, solidity, hardhat
-
-Frontend skills:
-- Reactjs, Nextjs, Tailwind CSS
+- Ethers.js, solidity, hardhat, node.js
 
 🔭 I’m currently working on ICO, DEX, DAO
 
