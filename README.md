@@ -4,7 +4,6 @@
 
 - Am currently building my own projects all-day everyday.
 - I am  self-taught developer
-- Have built many projects including DAOs, DEXs, NFT collections, NFT marketplaces and more.
 
 Here are some links to my live projects:
 - NFT-collection: ([link](https://nft-collection-gamma-one.vercel.app/))
