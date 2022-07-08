@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tumelo Mashaba
-#### I am a full-stack Blockchain developer
+#### I am a Backend Blockchain developer
 ![I am a Backend Blockchain developer](https://github.com/King-Wuda/King-Wuda/blob/main/Twitter%20Web3%20header.jpg)
 
 - Am currently building my own projects all-day everyday.
