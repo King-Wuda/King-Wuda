@@ -8,11 +8,16 @@
 Here are some links to my live projects:
 - NFT-collection: ([link](https://nft-collection-gamma-one.vercel.app/))
 - Whitelist-dapp: ([link](https://whitelist-dapp-peach-one.vercel.app/))
+- DAO: ([link](https://dao-blond.vercel.app/))
+- DEX-exchange: ([link](https://dex-exchange-xi.vercel.app/))
 
 Backend skills:
 - Ethers.js, solidity, hardhat, node.js
 
-🔭 I’m currently working on ICO, DEX, DAO
+Frontend exxperience:
+- Reactjs, Nextjs, Moralis
+
+🔭 I’m currently working on a decntralised food marketplace.
 
 📫 How to reach me: mashabaindustriesllc@gmail.com 
 
