@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tumelo Mashaba
 #### I am a Backend Blockchain developer
-![I am a Backend Blockchain developer](https://github.com/King-Wuda/King-Wuda/blob/main/Twitter%20Web3%20header.jpg)
+![I am a Blockchain developer](https://github.com/King-Wuda/King-Wuda/blob/main/Twitter%20Web3%20header.jpg)
 
 - Am currently building my own projects all-day everyday.
 - I am  self-taught developer
@@ -17,7 +17,7 @@ Backend skills:
 Frontend exxperience:
 - Reactjs, Nextjs, Moralis
 
-🔭 I’m currently working on a decntralised food marketplace.
+🔭 I’m currently working on a decentralised food marketplace.
 
 📫 How to reach me: mashabaindustriesllc@gmail.com 
 
